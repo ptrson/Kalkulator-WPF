@@ -1,0 +1,46 @@
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\MainWindow.g.cs
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\App.g.cs
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\MainWindow.baml
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.g.resources
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\pdziwinski\Documents\Visual Studio 2015\Projects\Programowanie .NET 2016_1\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Informatyka\dot NET\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.pdb
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\MainWindow.g.cs
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\App.g.cs
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+D:\Informatyka\dot NET\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Informatyka\dot NET\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\MainWindow.baml
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.g.resources
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Informatyka\dot NET\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.exe.config
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.exe
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.pdb
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\MainWindow.g.cs
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\App.g.cs
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\MainWindow.baml
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.g.resources
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+D:\Informatyka\dot NET\Programowanie .NET 2016_1\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
